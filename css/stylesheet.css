@@ -1,0 +1,163 @@
+/** body and main*/
+@import url('https://fonts.googleapis.com/css?family=ABeeZee|Lobster|Merriweather');
+
+body {
+  margin:0;
+  background-color: white;
+}
+
+.main {
+  padding-left:120px;
+  padding-right:120px;
+  padding-top:10px;
+  background-color: white;
+  height: auto; /* Used in this example to enable scrolling */
+}
+
+/** navbar*/
+.navbar {
+  overflow: hidden;
+  background-color: #e74c3c;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+
+.navbar a {
+  float: left;
+  display: block; 
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/** home and me presentation*/
+
+.home {
+  height: 680px; /* Used in this example to enable scrolling */
+}
+
+.home2 {
+  height: 980px; /* Used in this example to enable scrolling */
+}
+
+.me{
+  text-align: center;
+  font-size: 36px;
+  color: white;
+  padding-top: 50px;
+}
+
+.skill {
+  background-color: white;
+  height: 430px; /* Used in this example to enable scrolling */
+  padding-top: 25px;
+  text-align: center;
+
+}
+
+.skill1 {
+
+  background-color: white;
+  height: 230px; /* Used in this example to enable scrolling */
+  text-align: center;
+}
+
+.skill2 {
+
+  background-color: white;
+  height: 300px; /* Used in this example to enable scrolling */
+  text-align: center;
+
+}
+
+.about {
+  background-color: #3498db;
+  height: 600px; /* Used in this example to enable scrolling */
+}
+
+.bas {
+
+  padding-top: 50px;
+}
+
+
+.aboutLink {
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  text-decoration:none;
+  padding-left: 35px;
+
+}
+
+.centrer {
+  text-align: center;
+  margin-top: 50px;
+}
+
+
+.resume {
+  background-color: blue;
+  height: 680px; /* Used in this example to enable scrolling */
+}
+
+/**contact*/
+
+
+.contact {
+  background-color: yellow;
+  height: 680px; /* Used in this example to enable scrolling */
+}
+p{
+  color: white;
+  font-family: 'Lobster', cursive;
+
+}
+
+.myprofil{
+  float: left;
+}
+
+.myprofil1{
+  color: white;
+  font-size: 18px;
+  text-align: center;
+
+}
+
+.mydescription{
+  color: white;
+  font-size: 32px;
+  text-align: left;
+  padding-left: 30px;
+}
+
+.global{
+  margin-left: 200px;
+}
+
+.dexter{
+  color: #f39c12;
+
+}
+
+.ouattara{
+  color: #2980b9;
+}
+
+.pousse{
+  margin-left: 230px;
+}
+
+.pousse2{
+  margin-left: 120px;
+}
+
+h2{
+  font-family: 'Tangerine', serif;
+  font-size: 108px;
+}
