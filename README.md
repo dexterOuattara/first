@@ -1,5 +1,5 @@
 
-# My Portefolio online
+# My Portfolio online
 ## 1- HOME
 * Intro
 * About
@@ -32,7 +32,9 @@ table
 
 liens
 
-[Dexter ouattara](https://dexterouattara.github.io/first/)
+[Main Portfolio](https://dexterouattara.github.io/first/)
+[Skills](https://dexterouattara.github.io/first/skills.html)
+[Portfolio](https://dexterouattara.github.io/first/portefolio.html)
 
 emoji
 :smiley: :smiley: :smiley: :smiley:
