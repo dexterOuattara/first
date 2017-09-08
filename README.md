@@ -2,14 +2,14 @@
 # My Portefolio online
 ## 1- HOME
 ## 2- SKILL
-## 3- PORTEFOLIO
-##### H5
-###### H6
 
-* list
-* list 
-* list 
-* list 
+
+## 3- PORTEFOLIO
+
+* Abidjan Guide
+* Afro Cuisine 
+* DBM-TV 
+
 
 image
 
@@ -26,7 +26,7 @@ table
 
 liens
 
-[google](https://www.google.com)
+[Dexter ouattara](https://dexterouattara.github.io/first/)
 
 emoji
 :smiley: :smiley: :smiley: :smiley:
