@@ -1,7 +1,13 @@
-# first
+
 # My Portefolio online
 ## 1- HOME
+* Intro
+* About
+
 ## 2- SKILL
+* MAYBE DEVELOPPER 
+* MAYBE DESIGNER
+* MAYBE COMMUNICATION
 
 
 ## 3- PORTEFOLIO
@@ -13,7 +19,7 @@
 
 image
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://dexterouattara.github.io/first/img/about.jpg)
 
 table
 
