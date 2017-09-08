@@ -24,11 +24,11 @@ image
 table
 
 
-| Tables        | Are           | Cool  |
+| Site          | Links           | number  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Dexte         | EXTERNAT      |      1|
+|               | EXTERNAT      |      2| 
+|               | EXTERNAT      |      3|
 
 liens
 
